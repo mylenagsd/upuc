@@ -1,0 +1,21 @@
+_identite: CODE, 1318 0 320
+_Timer_IT: CODE, 8 0 1782
+_get_NFC_tag: CODE, 24 0 484
+_echo: CODE, 2320 0 46
+_main: CODE, 920 0 398
+_init_uart: CODE, 2366 0 30
+_fermeture: CODE, 2130 0 80
+_read_echo: CODE, 2396 0 30
+_Adc_init: CODE, 2210 0 62
+__initialization: CODE, 1790 0 88
+_ouverture: CODE, 2050 0 80
+_init_timer: CODE, 2474 0 20
+_read_uart: CODE, 2536 0 8
+_read_analog: CODE, 2426 0 24
+_select_protocol: CODE, 1884 0 84
+_calibration: CODE, 508 0 412
+_init_RFID: CODE, 2272 0 48
+_write_echo: CODE, 2494 0 14
+_write_uart: CODE, 2508 0 14
+___wmul: CODE, 1968 0 82
+Total: 4106
